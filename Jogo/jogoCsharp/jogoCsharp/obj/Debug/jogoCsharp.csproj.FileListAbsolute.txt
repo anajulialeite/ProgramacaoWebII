@@ -1,0 +1,14 @@
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\ProgramacaoWebII-main\ProgramacaoWebII-main\Nova pasta\jogoCsharp\jogoCsharp\bin\Debug\jogoCsharp.exe.config
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\ProgramacaoWebII-main\ProgramacaoWebII-main\Nova pasta\jogoCsharp\jogoCsharp\bin\Debug\jogoCsharp.exe
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\ProgramacaoWebII-main\ProgramacaoWebII-main\Nova pasta\jogoCsharp\jogoCsharp\bin\Debug\jogoCsharp.pdb
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\ProgramacaoWebII-main\ProgramacaoWebII-main\Nova pasta\jogoCsharp\jogoCsharp\obj\Debug\jogoCsharp.csproj.AssemblyReference.cache
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\ProgramacaoWebII-main\ProgramacaoWebII-main\Nova pasta\jogoCsharp\jogoCsharp\obj\Debug\jogoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\ProgramacaoWebII-main\ProgramacaoWebII-main\Nova pasta\jogoCsharp\jogoCsharp\obj\Debug\jogoCsharp.exe
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\ProgramacaoWebII-main\ProgramacaoWebII-main\Nova pasta\jogoCsharp\jogoCsharp\obj\Debug\jogoCsharp.pdb
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\ProgramacaoWebII-main\ProgramacaoWebII\Jogo\jogoCsharp\jogoCsharp\bin\Debug\jogoCsharp.exe.config
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\ProgramacaoWebII-main\ProgramacaoWebII\Jogo\jogoCsharp\jogoCsharp\bin\Debug\jogoCsharp.exe
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\ProgramacaoWebII-main\ProgramacaoWebII\Jogo\jogoCsharp\jogoCsharp\bin\Debug\jogoCsharp.pdb
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\ProgramacaoWebII-main\ProgramacaoWebII\Jogo\jogoCsharp\jogoCsharp\obj\Debug\jogoCsharp.csproj.AssemblyReference.cache
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\ProgramacaoWebII-main\ProgramacaoWebII\Jogo\jogoCsharp\jogoCsharp\obj\Debug\jogoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\ProgramacaoWebII-main\ProgramacaoWebII\Jogo\jogoCsharp\jogoCsharp\obj\Debug\jogoCsharp.exe
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\ProgramacaoWebII-main\ProgramacaoWebII\Jogo\jogoCsharp\jogoCsharp\obj\Debug\jogoCsharp.pdb

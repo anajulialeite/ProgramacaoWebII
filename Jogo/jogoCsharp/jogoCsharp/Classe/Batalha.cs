@@ -49,6 +49,14 @@ namespace jogoCsharp.Classe
                     Console.ResetColor();
                     return;
                 }
+
+                // Se o inimigo for o Loki, o Hulk provoca
+                if (inimigo.Nome.ToLower() == "loki")
+                {
+                    Console.ForegroundColor = ConsoleColor.Cyan;
+                    Console.WriteLine("Hulk: 'Deus fraco!'");
+                    Console.ResetColor();
+                }
             }
         }
     }

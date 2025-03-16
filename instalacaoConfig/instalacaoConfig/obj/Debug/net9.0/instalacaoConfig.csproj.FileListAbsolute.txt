@@ -1,0 +1,14 @@
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\Exercícios\instalacaoConfig\instalacaoConfig\bin\Debug\net9.0\instalacaoConfig.exe
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\Exercícios\instalacaoConfig\instalacaoConfig\bin\Debug\net9.0\instalacaoConfig.deps.json
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\Exercícios\instalacaoConfig\instalacaoConfig\bin\Debug\net9.0\instalacaoConfig.runtimeconfig.json
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\Exercícios\instalacaoConfig\instalacaoConfig\bin\Debug\net9.0\instalacaoConfig.dll
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\Exercícios\instalacaoConfig\instalacaoConfig\bin\Debug\net9.0\instalacaoConfig.pdb
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\Exercícios\instalacaoConfig\instalacaoConfig\obj\Debug\net9.0\instalacaoConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\Exercícios\instalacaoConfig\instalacaoConfig\obj\Debug\net9.0\instalacaoConfig.AssemblyInfoInputs.cache
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\Exercícios\instalacaoConfig\instalacaoConfig\obj\Debug\net9.0\instalacaoConfig.AssemblyInfo.cs
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\Exercícios\instalacaoConfig\instalacaoConfig\obj\Debug\net9.0\instalacaoConfig.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\Exercícios\instalacaoConfig\instalacaoConfig\obj\Debug\net9.0\instalacaoConfig.dll
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\Exercícios\instalacaoConfig\instalacaoConfig\obj\Debug\net9.0\refint\instalacaoConfig.dll
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\Exercícios\instalacaoConfig\instalacaoConfig\obj\Debug\net9.0\instalacaoConfig.pdb
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\Exercícios\instalacaoConfig\instalacaoConfig\obj\Debug\net9.0\instalacaoConfig.genruntimeconfig.cache
+C:\Users\Master\Documents\UNIDESC\Sistema de Informação\Quinto Semestre\Programação para Web II\Exercícios\instalacaoConfig\instalacaoConfig\obj\Debug\net9.0\ref\instalacaoConfig.dll

@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using System.Text.Encodings.Web;
 using Microsoft.AspNetCore.Mvc;
 using projetoMVC.Models;
 
@@ -27,5 +28,10 @@ public class HomeController : Controller
     public IActionResult Error()
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+    }
+
+    public string Welcome(string name, int numTimes = 1)
+    {
+        return HtmlEncoder.Default.Encode($"Hello {name}, NumTimes is: {numTimes}");
     }
 }

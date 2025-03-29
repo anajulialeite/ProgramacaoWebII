@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|c:\\users\\master\\documents\\unidesc\\sistema de informa\u00E7\u00E3o\\quinto semestre\\programa\u00E7\u00E3o para web ii\\programacaowebii-main\\programacaowebii\\projetomvc\\projetomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|solutionrelative:projetomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|c:\\users\\master\\documents\\unidesc\\sistema de informa\u00E7\u00E3o\\quinto semestre\\programa\u00E7\u00E3o para web ii\\programacaowebii-main\\programacaowebii\\projetomvc\\projetomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|solutionrelative:projetomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|c:\\users\\master\\documents\\unidesc\\sistema de informa\u00E7\u00E3o\\quinto semestre\\programa\u00E7\u00E3o para web ii\\programacaowebii-main\\programacaowebii\\projetomvc\\projetomvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|solutionrelative:projetomvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|c:\\users\\master\\documents\\unidesc\\sistema de informa\u00E7\u00E3o\\quinto semestre\\programa\u00E7\u00E3o para web ii\\programacaowebii-main\\programacaowebii\\projetomvc\\projetomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|solutionrelative:projetomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|c:\\users\\master\\documents\\unidesc\\sistema de informa\u00E7\u00E3o\\quinto semestre\\programa\u00E7\u00E3o para web ii\\programacaowebii-main\\programacaowebii\\projetomvc\\projetomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|solutionrelative:projetomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|c:\\users\\master\\documents\\unidesc\\sistema de informa\u00E7\u00E3o\\quinto semestre\\programa\u00E7\u00E3o para web ii\\programacaowebii-main\\programacaowebii\\projetomvc\\projetomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|solutionrelative:projetomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|c:\\users\\master\\documents\\unidesc\\sistema de informa\u00E7\u00E3o\\quinto semestre\\programa\u00E7\u00E3o para web ii\\programacaowebii-main\\programacaowebii\\projetomvc\\projetomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|solutionrelative:projetomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|c:\\users\\master\\documents\\unidesc\\sistema de informa\u00E7\u00E3o\\quinto semestre\\programa\u00E7\u00E3o para web ii\\programacaowebii-main\\programacaowebii\\projetomvc\\projetomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|solutionrelative:projetomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|c:\\users\\master\\documents\\unidesc\\sistema de informa\u00E7\u00E3o\\quinto semestre\\programa\u00E7\u00E3o para web ii\\programacaowebii-main\\programacaowebii\\projetomvc\\projetomvc\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|solutionrelative:projetomvc\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|c:\\users\\master\\documents\\unidesc\\sistema de informa\u00E7\u00E3o\\quinto semestre\\programa\u00E7\u00E3o para web ii\\programacaowebii-main\\programacaowebii\\projetomvc\\projetomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|solutionrelative:projetomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|c:\\users\\master\\documents\\unidesc\\sistema de informa\u00E7\u00E3o\\quinto semestre\\programa\u00E7\u00E3o para web ii\\programacaowebii-main\\programacaowebii\\projetomvc\\projetomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C39EF39F-5971-4A92-9DC1-D7C60E0AE70D}|projetoMVC\\projetoMVC.csproj|solutionrelative:projetomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +46,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "projetoMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "projetoMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T00:38:14.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "projetoMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "projetoMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T00:38:12.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "projetoMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\appsettings.json",
+              "RelativeToolTip": "projetoMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T00:08:12.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "projetoMVC\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "projetoMVC\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:21:10.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "projetoMVC\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\Models\\Movie.cs",
+              "RelativeToolTip": "projetoMVC\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:03:56.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "projetoMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "projetoMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:53:34.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "projetoMVC\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "projetoMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T15:50:21.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "projetoMVC\\Views\\Shared\\_Layout.cshtml",
@@ -55,11 +157,12 @@
               "RelativeToolTip": "projetoMVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T15:48:24.477Z"
+              "WhenOpened": "2025-03-13T15:48:24.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\UNIDESC\\Sistema de Informa\u00E7\u00E3o\\Quinto Semestre\\Programa\u00E7\u00E3o para Web II\\ProgramacaoWebII-main\\ProgramacaoWebII\\projetoMVC\\projetoMVC\\Program.cs",
               "RelativeDocumentMoniker": "projetoMVC\\Program.cs",
@@ -67,7 +170,8 @@
               "RelativeToolTip": "projetoMVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T15:46:08.321Z"
+              "WhenOpened": "2025-03-13T15:46:08.321Z",
+              "EditorCaption": ""
             }
           ]
         }

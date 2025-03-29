@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using projetoMVC.Data;
 namespace projetoMVC
 {
     public class Program
@@ -5,6 +8,8 @@ namespace projetoMVC
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddDbContext<projetoMVCContext>(options =>
+                options.UseSqlite(builder.Configuration.GetConnectionString("projetoMVCContext") ?? throw new InvalidOperationException("Connection string 'projetoMVCContext' not found.")));
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();

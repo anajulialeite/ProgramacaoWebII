@@ -18,36 +18,46 @@ O Script do SQL Server foi enviado para que o banco de dados rode de forma corre
 
 Projeto finalizado no dia 18/05/2025.
 
+---
+
 # Instrução para Executar
 
 Clone este repositório:
-<br>
+```bash
 git clone https://github.com/anajulialeite/ASP-.NET-MVC.git
-
+```
 Navegue até a página do projeto:
-<br>
+```bash
 cd ASP-.NET-MVC
-
+```
 Restaure as dependências:
-<br>
+```bash
 dotnet restore
+```
 
 Compile o projeto:
-<br>
+```bash
 dotnet build
+```
 
 Execute a aplicação:
-<br>
+```bash
 dotnet run
+```
 
 Acesso no navegador:
-<br>
+```bash
 https://localhost: XXXX
+```
+
+---
 
 # Pré-requisitos
 
 <li>.NET SDK Instalados</li>
 <li>Um editor como Visual Studio 2022 ou Visual Studio Code</li>
+
+---
           
 # License 
 

@@ -10,7 +10,7 @@
 
 Aqui serão apresentados todos os exercícios, trabalhos e projetos criados em sala de aula.
 
-# Projeto MVC - Ana Júlia de Lima Aguiar Leite
+## Projeto MVC - Ana Júlia de Lima Aguiar Leite
 
 Um projeto chamado LanchesMac contém uma página Index, Contato, os Tipos de Lanches, Login, uma Aba de Busca e Registro. 
 
@@ -20,7 +20,7 @@ Projeto finalizado no dia 18/05/2025.
 
 ---
 
-# Instrução para Executar
+## Instrução para Executar
 
 Clone este repositório:
 ```bash
@@ -52,13 +52,13 @@ https://localhost: XXXX
 
 ---
 
-# Pré-requisitos
+## Pré-requisitos
 
 <li>.NET SDK Instalados</li>
 <li>Um editor como Visual Studio 2022 ou Visual Studio Code</li>
 
 ---
           
-# License 
+## License 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
